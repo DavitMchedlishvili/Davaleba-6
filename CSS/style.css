@@ -56,11 +56,133 @@ nav{
 
 .lupa{
     color: white;
+    
+    
 }
 
 
 .section1{
-    border: 2px solid red;
+    
+    background-color: #F2F5F8;
     width: 100%;
     display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+   
+
+    
+
+   
+    
+}
+
+
+
+
+.section1L{
+    
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 116px;
+    justify-content: space-around;
+    
+   
+
+    
+    
+    
+
+}
+
+
+
+
+.barcleys{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+   
+
+}
+
+.freedom{
+    width: 95%;
+    height: 80%;
+    
+}
+
+.caption1{
+    border: 2px solid red;
+    width: 95%;
+    font-size: 24px;
+
+}
+
+.title1{
+    border: 2px solid red;
+    padding-bottom: 14px;
+    font-size: 18px;
+    
+    
+}
+
+
+   
+.section1R{
+    width: 30%;
+    /* background-color: white; */
+    padding-top: 116px;
+    
+}
+
+
+
+.title2{
+    font-size: 18px;
+    padding-bottom: 14px;
+    border: 2px solid red;
+}
+
+
+
+
+.quicklinks{
+    width: 100%;
+    max-height: 471px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+
+
+.icon{
+
+    
+    color: #BAC5FF;
+    padding-top: 50px;
+    padding-bottom: 12px;
+    
+}
+
+
+
+.box{
+    width: 50%;
+    height: 145px;
+    padding-top: 15px;
+    text-align: center;
+    
+    
+}
+
+.boxtext{
+    font-size: 12px;
 }
